@@ -1,7 +1,9 @@
 # Library Management System
 
 Author: Pradeep Tiwari
+
 Year: 2025
+
 Technology Stack: Java, Spring Boot, Thymeleaf, H2 Database, Maven
 
 # Project Overview
