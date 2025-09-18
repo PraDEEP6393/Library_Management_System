@@ -21,3 +21,9 @@ The Library Management System is a web-based application designed to automate an
  4. Automated database management using Spring Data JPA
 
  5. Responsive front-end with Thymeleaf templates
+
+# Admin Login Credentials
+
+Username: admin@admin.in
+
+Password: Temp123
